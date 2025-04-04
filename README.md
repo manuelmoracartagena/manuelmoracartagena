@@ -12,7 +12,7 @@
 
 ###
 
-<p align="center"> 🔭 I’m a physicist pursuing a master's degree in Big Data Analytics<br> 🧠 I'm currently working on my master's thesis about Alzheimer’s diagnosis using deep neural networks. <br>🔜 I’ll soon be uploading the code. Stay tuned!</p>
+<p align="center"> 🔭 I’m a physicist pursuing a master's degree in Big Data Analytics<br> 🧠 I'm currently working on my master's thesis about Alzheimer’s diagnosis using deep neural networks <br>🔜 I’ll soon be uploading the code. Stay tuned!</p>
 
 ###
 
