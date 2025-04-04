@@ -12,11 +12,11 @@
 
 ###
 
-<p align="center"> 🔭 I’m a physicist studying a master's degree in Big Data Analytics<br> 📚 I'm currently working on my master's thesis about Alzheimer’s diagnosis using deep neural networks. <br>🔜 I’ll soon be uploading the code. Stay tuned!</p>
+<p align="center">- 🔭 I’m a physicst pursuing a master's degree in Big Data Analytics<br>- 📚 I'm currently working on my master's thesis about Alzheimer’s diagnosis using deep neural networks</p>
 
 ###
 
-<h3 align="center">🛠 Language and tools</h3>
+<h3 align="center">🛠 Stack</h3>
 
 ###
 
@@ -26,8 +26,6 @@
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
@@ -51,3 +49,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
