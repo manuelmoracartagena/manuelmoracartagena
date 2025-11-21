@@ -3,14 +3,7 @@
 </div>
 
 <div align="center">
-  
   <h4>🔗 Connect with me here</h4>
 
-  <a href="https://www.linkedin.com/in/manuel-mora-cartagena/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:manumora1999@gmail.com">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-logo-icon-svg-download-png-2476484.png" height="35" alt="email logo" />
-  </a>
+  <a href="https://www.linkedin.com/in/manuel-mora-cartagena/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:manumora1999@gmail.com"><img src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-logo-icon-svg-download-png-2476484.png" height="35" alt="email logo"/></a>
 </div>
