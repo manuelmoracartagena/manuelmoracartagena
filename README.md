@@ -4,4 +4,4 @@
 
 ###
 
-<div align="center">Hello World! 👋 I'm Manuel<div>
+<div align="center">Hello World!<div>
